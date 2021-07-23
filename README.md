@@ -5,7 +5,7 @@ Para acessar as funcionalidades do app é necessário **se autenticar no discord
 
 
 
-# Para executar o projeto:
+## Para executar o projeto:
 → Instale as dependências do projeto com **yarn** ou o **npm install**.
 
 → Realize a configuração do projeto no discord através do link **discord.com/developers/applications**, na pagina OAuth2 deve ser **gerada a URL**, para isso é necessário adicionar o **link de redirecionamento** https://auth.expo.io/@seu-user-expo/gameplay e **selecionar as opções: identify, email, connections e guilds**. 
