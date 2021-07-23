@@ -1,5 +1,5 @@
 # Gameplay
-Projeto desenvolvido por @rodrigorgtic durante o evento Next Level Week - Together, trata-se de um aplicativo em react native para organizar e gerenciar partidas de games.
+Projeto desenvolvido por @rodrigorgtic durante o evento Next Level Week - Together, e aqui publicado com o código comentado. Trata-se de um aplicativo em react native para organizar e gerenciar partidas de games.
 
 Para acessar as funcionalidades do app é necessário **se autenticar no discord**, assim é possível acessar os dados tanto do perfil do usuário, como dos servidores no discord, desse modo podemos agendar as novas partidas :).
 
