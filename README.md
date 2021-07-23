@@ -4,6 +4,7 @@ Projeto desenvolvido por @rodrigorgtic durante o evento Next Level Week - Togeth
 Para acessar as funcionalidades do app é necessário **se autenticar no discord**, assim é possível acessar os dados tanto do perfil do usuário, como dos servidores no discord, desse modo podemos agendar as novas partidas :).
 
 
+
 # Para executar o projeto:
 → Instale as dependências do projeto com **yarn** ou o **npm install**.
 
