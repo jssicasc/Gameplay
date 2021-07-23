@@ -13,5 +13,6 @@ PS: Se *não estiver logado no expo* aparecerá no terminal uma mensagem de erro
 
 → Após gerar a URL ele deve ser utilizado para preencher as variáveis de configurações, **é necessário** que elas estejam em um arquivo chamado **.env** , um *exemplo está no arquivo .env.example* .
 
+→ Para acessar as funcionalidades de entrar no servidor(grupo) do discorde e de compartilhamento do link de convite, é necessário que você seja o administrador do servidor, além disso você precisa ir nas configurações do servidor e: ativar o widget e escolher um canal de convite.
 
 
