@@ -41,7 +41,7 @@ type AuthorizationResponse = AuthSession.AuthSessionResult & {
 }
 
 export const AuthContext = createContext({} as AuthContextData); 
-//o contexto começa como um objeto vazio, no Provider será passado o que definimos, que é o {user, loading, signIn}, no entanto eles serão acessados nas outras telas através do useAuth()
+//o contexto começa como um objeto vazio, no Provider será passado o que definimos, que é o {user, loading, signIn e signOut}, no entanto eles serão acessados nas outras telas através do useAuth()
 
 
  function AuthProvider( {children}: AuthProviderProps){
